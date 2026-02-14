@@ -25,7 +25,7 @@ export const NAV_ITEMS = [
   // Home removed as requested
   { label: 'Scrapers', href: '/#scrapers' },
   { label: 'Pricing', href: '/#pricing' },
-  { label: 'Sales Nav Advanced 💰$50', href: '/sales-nav' }, // Updated to route
+  { label: 'Sales Nav Advanced 💰$30', href: '/sales-nav' }, // Updated to route
   { label: 'How It Works', href: '/#how-it-works' },
   { label: 'FAQs', href: '/#faqs' },
 ];
@@ -161,7 +161,7 @@ export const FAQS: FaqItem[] = [
 export const PRICING_PLANS: PricingPlan[] = [
   {
     name: "Standard Package",
-    price: "$50",
+    price: "$30",
     features: [
       "10,000 Verified Leads",
       "Delivered in 3-4 Hours",

@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
         <div className="flex flex-wrap justify-center gap-6 sm:gap-12 text-sm font-medium text-gray-400">
           <div className="flex items-center gap-2">
             <CheckCircle className="text-emerald-500" size={18} />
-            10k verified leads for $50
+            10k verified leads for $30
           </div>
           <div className="flex items-center gap-2">
             <CheckCircle className="text-emerald-500" size={18} />

@@ -17,7 +17,7 @@ const SalesNavActivation: React.FC = () => {
                 LinkedIn Sales Navigator Advanced Activation
               </h2>
               <p className="text-blue-100 text-lg mb-8">
-                Don't pay $100+/month to LinkedIn. For just <span className="text-white font-bold">$50</span>, we activate a Sales Navigator Advanced account for you for one month. Run unlimited searches and gather your URLs effortlessly.
+                Don't pay $100+/month to LinkedIn. For just <span className="text-white font-bold">$30</span>, we activate a Sales Navigator Advanced account for you for one month. Run unlimited searches and gather your URLs effortlessly.
               </p>
               
               <ul className="space-y-4 mb-10">
@@ -56,7 +56,7 @@ const SalesNavActivation: React.FC = () => {
               <div className="absolute inset-0 bg-gradient-to-l from-transparent to-indigo-900/90 lg:to-indigo-900"></div>
               <div className="absolute inset-0 flex items-center justify-center p-12">
                  <div className="text-center">
-                    <div className="text-6xl font-bold text-white mb-2">$50</div>
+                    <div className="text-6xl font-bold text-white mb-2">$30</div>
                     <div className="text-blue-200 font-medium">/ month</div>
                     <div className="mt-4 text-xs text-slate-400 uppercase tracking-widest">No recurring subscription</div>
                  </div>

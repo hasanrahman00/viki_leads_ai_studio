@@ -9,6 +9,7 @@ import {
   Phone,
   ShoppingCart,
   Building2,
+  Target,
   Zap,
   Clock,
   CheckCircle2,
@@ -25,7 +26,7 @@ export const NAV_ITEMS = [
   // Home removed as requested
   { label: 'Scrapers', href: '/#scrapers' },
   { label: 'Pricing', href: '/#pricing' },
-  { label: 'Sales Nav Advanced 💰$50', href: '/sales-nav' }, // Updated to route
+  { label: 'Sales Nav Advanced 💰$99', href: '/sales-nav' }, // Updated to route
   { label: 'How It Works', href: '/#how-it-works' },
   { label: 'FAQs', href: '/#faqs' },
 ];
@@ -54,6 +55,11 @@ export const PRODUCTS: Product[] = [
     description: 'Extract targeted B2B leads using deep Sales Navigator filters. Verified emails and direct dials included.',
     icon: Database,
     badge: 'Popular'
+  },
+  {
+    title: 'ICP Based Scraping',
+    description: 'Share your ICP details (industry, titles, geo, tech stack). We deliver verified leads matched to your ideal customer profile.',
+    icon: Target
   },
   {
     title: 'Apollo.io Leads Exporter',
@@ -161,7 +167,7 @@ export const FAQS: FaqItem[] = [
 export const PRICING_PLANS: PricingPlan[] = [
   {
     name: "Standard Package",
-    price: "$50",
+    price: "$99",
     features: [
       "10,000 Verified Leads",
       "Delivered in 3-4 Hours",

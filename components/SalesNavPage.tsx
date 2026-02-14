@@ -156,7 +156,7 @@ const SalesNavPage: React.FC = () => {
             <div className="bg-gradient-to-r from-slate-900 to-indigo-900 rounded-2xl p-8 md:p-12 text-center text-white shadow-2xl">
               <h2 className="text-3xl font-bold mb-4">Get Sales Navigator Advanced Today</h2>
               <div className="flex justify-center items-baseline gap-2 mb-2">
-                <span className="text-5xl font-extrabold">$50</span>
+                <span className="text-5xl font-extrabold">$99</span>
                 <span className="text-indigo-200">/ month</span>
               </div>
               <p className="text-indigo-300 mb-8 uppercase text-sm tracking-widest font-semibold">No Recurring Subscription</p>

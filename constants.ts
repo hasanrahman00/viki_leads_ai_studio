@@ -7,6 +7,8 @@ import {
   Linkedin, 
   MapPin, 
   Phone,
+  ShoppingCart,
+  Building2,
   Zap,
   Clock,
   CheckCircle2,
@@ -52,6 +54,21 @@ export const PRODUCTS: Product[] = [
     description: 'Extract targeted B2B leads using deep Sales Navigator filters. Verified emails and direct dials included.',
     icon: Database,
     badge: 'Popular'
+  },
+  {
+    title: 'Apollo.io Leads Exporter',
+    description: 'Export targeted Apollo leads with verified emails, job titles, and company details. Clean CSV delivery included.',
+    icon: Rocket
+  },
+  {
+    title: 'ZoomInfo Scraper',
+    description: 'Extract company and contact data from ZoomInfo searches and lists. Great for account-based prospecting.',
+    icon: Building2
+  },
+  {
+    title: 'Ecommerce Leads Scraper',
+    description: 'Build ecommerce brand lists with store URLs, niches, and key contacts. Ideal for agencies and SaaS outbound.',
+    icon: ShoppingCart
   },
   {
     title: 'LinkedIn Search Scraper',
